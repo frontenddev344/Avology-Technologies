@@ -37675,3 +37675,9 @@ body.at-magic-cursor #magic-cursor {
 .blog-card__thumb .blog-card__img-link img {
     height: 300px !important;
 }
+.sec-1-about .at-brand-area .brand-item img {
+    filter: brightness(0.1);
+}
+.at-brand-area .brand-item {
+    filter: brightness(0.1);
+}
