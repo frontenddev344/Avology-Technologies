@@ -3611,7 +3611,7 @@ span.char-bottom {
   position: absolute;
   top: 120%;
   left: 0;
-  width: 260px;
+  width: 350px;
   z-index: 99;
   opacity: 0;
   padding: 12px 0;
@@ -3654,7 +3654,7 @@ span.char-bottom {
   padding-left: 23px;
 }
 .at-main-menu nav ul li .at-megamenu {
-  width: 720px;
+  width: 900px;
   padding: 30px 30px;
 }
 .at-main-menu nav ul li .at-megamenu li {
