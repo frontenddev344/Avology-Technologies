@@ -3557,7 +3557,7 @@ span.char-bottom {
 .at-main-menu nav ul li {
   list-style: none;
   display: inline-block;
-  position: relative;
+  /* position: relative; */
 }
 .at-main-menu nav ul li.has-dropdown > a {
   color: var(--at-common-black);
