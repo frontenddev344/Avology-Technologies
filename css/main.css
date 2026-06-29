@@ -37701,3 +37701,7 @@ body.at-magic-cursor #magic-cursor {
 .at-brand-area .brand-item {
     filter: brightness(0.1);
 }
+.our-reat img {
+    width: 70px;
+    height: 70px;
+}
