@@ -75,7 +75,7 @@ li,
     font-size: 180px;
   }
   .fz-200 {
-    font-size: 200px;
+    font-size: 150px;
   }
   .fz-290 {
     font-size: 290px;
@@ -2410,7 +2410,7 @@ input[type=color] {
     font-size: 140px;
   }
   .fz-200 {
-    font-size: 120px;
+    font-size: 100px;
   }
   .fz-290 {
     font-size: 180px;
@@ -37704,4 +37704,10 @@ body.at-magic-cursor #magic-cursor {
 .our-reat img {
     width: 70px;
     height: 70px;
+}
+.no-icon::after {
+    display: none !important;
+}
+.no-icon::before {
+    display: none !important;
 }
