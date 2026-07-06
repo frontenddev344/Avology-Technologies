@@ -37689,7 +37689,7 @@ body.at-magic-cursor #magic-cursor {
   transition-delay: 200ms;
   transform: scale(1) rotate(360deg);
 }
-/*# sourceMappingURL=main.css.map */
+
 
 
 .blog-card__thumb .blog-card__img-link img {
@@ -37718,8 +37718,6 @@ body.at-magic-cursor #magic-cursor {
 
 
 
-
-/* LEFT BLOG */
 .blog-content {
   flex: 2;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -37760,7 +37758,6 @@ body.at-magic-cursor #magic-cursor {
   margin-bottom: 15px;
 }
 
-/* SIDEBAR */
 .sidebar {
   flex: 1;
 }
